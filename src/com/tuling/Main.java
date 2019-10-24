@@ -14,6 +14,7 @@ public class Main {
     public void show(){
 
         System.out.println("show...");
+        System.out.println("我是master中添加的类");
 
     }
 }
